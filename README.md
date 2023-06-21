@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div class="container" style="display:flex; justify-content:center; align-items:center;">
+
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/6413369/screenshots/20208251/media/bad6bdbc299b32c919a3bcf6bf0e94fc.gif">
-</div>
+
 <!--
 **HooraProjects/HooraProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
